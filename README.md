@@ -1,6 +1,14 @@
 # TDSpy
 Python code to run TDS experiments
 
+## Required python Packages
+- pymeasure
+- newportxps
+- matplotlib
+- PyQt5
+- pywin32
+- scipy
+
 ## Experiment Setup Instructions
 1. Connect electronics
    1. DC Power Supply (+-15V) -> Photodiode Power Input
